@@ -1,0 +1,9 @@
+C:\Users\dxs14\Documents\Visual Studio 2015\Projects\PluralSight CSharp Fundamentals\GradeBook\GradeBook.Test\bin\Debug\GradeBook.Test.dll
+C:\Users\dxs14\Documents\Visual Studio 2015\Projects\PluralSight CSharp Fundamentals\GradeBook\GradeBook.Test\bin\Debug\GradeBook.Test.pdb
+C:\Users\dxs14\Documents\Visual Studio 2015\Projects\PluralSight CSharp Fundamentals\GradeBook\GradeBook.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\dxs14\Documents\Visual Studio 2015\Projects\PluralSight CSharp Fundamentals\GradeBook\GradeBook.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\dxs14\Documents\Visual Studio 2015\Projects\PluralSight CSharp Fundamentals\GradeBook\GradeBook.Test\obj\Debug\GradeBook.Test.csprojResolveAssemblyReference.cache
+C:\Users\dxs14\Documents\Visual Studio 2015\Projects\PluralSight CSharp Fundamentals\GradeBook\GradeBook.Test\obj\Debug\GradeBook.Test.dll
+C:\Users\dxs14\Documents\Visual Studio 2015\Projects\PluralSight CSharp Fundamentals\GradeBook\GradeBook.Test\obj\Debug\GradeBook.Test.pdb
+C:\Users\dxs14\Documents\Visual Studio 2015\Projects\PluralSight CSharp Fundamentals\GradeBook\GradeBook.Test\bin\Debug\GradeBook.exe
+C:\Users\dxs14\Documents\Visual Studio 2015\Projects\PluralSight CSharp Fundamentals\GradeBook\GradeBook.Test\bin\Debug\GradeBook.pdb

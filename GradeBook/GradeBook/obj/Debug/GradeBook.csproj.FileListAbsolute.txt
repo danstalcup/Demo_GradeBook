@@ -1,0 +1,5 @@
+C:\Users\dxs14\Documents\Visual Studio 2015\Projects\PluralSight CSharp Fundamentals\GradeBook\GradeBook\bin\Debug\GradeBook.exe.config
+C:\Users\dxs14\Documents\Visual Studio 2015\Projects\PluralSight CSharp Fundamentals\GradeBook\GradeBook\bin\Debug\GradeBook.exe
+C:\Users\dxs14\Documents\Visual Studio 2015\Projects\PluralSight CSharp Fundamentals\GradeBook\GradeBook\bin\Debug\GradeBook.pdb
+C:\Users\dxs14\Documents\Visual Studio 2015\Projects\PluralSight CSharp Fundamentals\GradeBook\GradeBook\obj\Debug\GradeBook.exe
+C:\Users\dxs14\Documents\Visual Studio 2015\Projects\PluralSight CSharp Fundamentals\GradeBook\GradeBook\obj\Debug\GradeBook.pdb
